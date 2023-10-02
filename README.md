@@ -8,7 +8,10 @@
 
 📝 **Personal website:** [mwidas.github.io](https://mwidas.github.io/)
 
+### Education
 
+- Master in Environmental Data Science @ UC Santa Barbara (Anticipated 2024)
+- BS in Environmental Science @ Montana State University (2022)
 
 <!--
 **mwidas/mwidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
