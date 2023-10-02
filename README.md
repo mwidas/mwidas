@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hello! My name is Melissa Widas (pronounced We-dis) ✨ </h1>
+
+<h3 align="center"> Master of Environmental Data Science Student at University of California, Santa Barbara</h3>
+
+<br>
+
+😄 **Pronouns:** *she/her* 
+
+📝 **Personal website:** [mwidas.github.io](https://mwidas.github.io/)
+
+
 
 <!--
 **mwidas/mwidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
