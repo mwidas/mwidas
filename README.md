@@ -4,8 +4,6 @@
 
 <br>
 
-😄 **Pronouns:** *she/her* 
-
 📝 **Personal website:** [mwidas.github.io](https://mwidas.github.io/)
 
 ### Education
