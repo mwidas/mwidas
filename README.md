@@ -11,6 +11,13 @@
 - Master in Environmental Data Science @ UC Santa Barbara (Anticipated 2024)
 - BS in Environmental Science @ Montana State University (2022)
 
+🌱 I’m currently learning and building environmental data science skills -- particularly analytics, modeling, GIS, application development, and data visualization.
+🌐 I'm interested in corporate sustainability, and environmental conservation and remediation
+🐝 I'm passionate about bees and permafrost
+📫 How to reach me: mel.widas@gmail.com
+
+  
+View my current and past work at the repositories below! 👇
 <!--
 **mwidas/mwidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
