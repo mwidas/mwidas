@@ -12,8 +12,11 @@
 - BS in Environmental Science @ Montana State University (2022)
 
 🌱 I’m currently learning and building environmental data science skills -- particularly analytics, modeling, GIS, application development, and data visualization.
+
 🌐 I'm interested in corporate sustainability, and environmental conservation and remediation
-🐝 I'm passionate about bees and permafrost
+
+🐝 I'm passionate about bees and permafrost while exploring the word around me
+
 📫 How to reach me: mel.widas@gmail.com
 
   
