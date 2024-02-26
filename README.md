@@ -15,7 +15,7 @@
 
 🌐 I'm interested in corporate sustainability, and environmental conservation and remediation
 
-🐝 I'm passionate about bees and permafrost while exploring the word around me
+🐝 I'm passionate about bees and permafrost while exploring the world around me
 
 📫 How to reach me: mel.widas@gmail.com
 
