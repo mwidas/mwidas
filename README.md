@@ -11,7 +11,7 @@
 - Master in Environmental Data Science @ UC Santa Barbara (2024)
 - BS in Environmental Science @ Montana State University (2022)
 
-  ### About Me
+### About Me
 
 🌱 I’m an environmental scientist who uses data science skills to explore the world around me -- particularly analytics, modeling, GIS, application development, and data visualization.
 
