@@ -1,6 +1,6 @@
 <h1 align="center">Hello! My name is Melissa Widas (pronounced We-dis) ✨ </h1>
 
-<h3 align="center"> Master of Environmental Data Science Student at University of California, Santa Barbara</h3>
+ <h3 align="center"> Welcome to my GitHub Account where you can see some of the projects I have worked on</h3>
 
 <br>
 
